@@ -1,0 +1,1 @@
+Guess the Number" is a classic game where players attempt to guess a randomly generated number between 1 and 20. Players input their guesses, and the game provides feedback on whether the guess is too high, too low, or correct. The objective is to guess the number correctly within the fewest attempts possible, adding an element of strategy and deduction to the gameplay.
